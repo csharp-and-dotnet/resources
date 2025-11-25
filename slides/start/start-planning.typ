@@ -64,6 +64,8 @@
 
   https://www.youtube.com/watch?v=c0dD3uKN5KA (PrograLabs)
 
+  https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B (Recomendación de Ian, colección de videos)
+
 = Cursos para .NET
 
 == Cursos para .NET
